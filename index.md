@@ -1,6 +1,6 @@
 ---
 title: Coches V8  
-layout: Coches V8
+layout: default
 ---
 
 Los V8 son motores montados en el cárter con dos bancos de 4 cilindros cada uno, compartiendo así el mismo cigüeñal formando una ‘V’.
