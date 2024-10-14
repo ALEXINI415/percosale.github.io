@@ -14,7 +14,7 @@ V8 cross-plane: Frecuentemente usado en los automóviles. La primera y última b
 
 V8 flat-plane: basado en el cigüeñal de los motores 4 cilindros de ángulos 180º. El ángulo de barcos puede ser de 90º y 180º. Se usan frecuentemente en monoplazas de competición.
 
-##1.1 Historia del V8
+## 1.1 Historia del V8
 
 Aunque nos parezca mentira, los primeros V8 no fueron montados en autómoviles. Empezaron cerca del 1904 montándose en aeronaves y lanchas. Hubo que esperar casi 3 décadas (1932) para ver el primer coche V8 de la historia.
 
