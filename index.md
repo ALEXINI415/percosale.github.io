@@ -1,9 +1,11 @@
 ---
-title: Home
-layout: home
+title: Coches V8  
+layout: Coches V8
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+Los V8 son motores montados en el cárter con dos bancos de 4 cilindros cada uno, compartiendo así el mismo cigüeñal formando una ‘V’.
+Normalmente el ángulo de la V son 90º (b), pero también son usados algunos V8 con un ángulo de 60º (c).
+
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
 
