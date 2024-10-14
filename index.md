@@ -2,6 +2,7 @@
 title: Coches V8  
 layout: default
 ---
+# Coches V8 
 
 Los V8 son motores montados en el cárter con dos bancos de 4 cilindros cada uno, compartiendo así el mismo cigüeñal formando una ‘V’.
 Normalmente el ángulo de la V son 90º (b), pero también son usados algunos V8 con un ángulo de 60º (c).
