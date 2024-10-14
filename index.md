@@ -6,13 +6,15 @@ layout: default
 Los V8 son motores montados en el cárter con dos bancos de 4 cilindros cada uno, compartiendo así el mismo cigüeñal formando una ‘V’.
 Normalmente el ángulo de la V son 90º (b), pero también son usados algunos V8 con un ángulo de 60º (c).
 
+Son normales en camionetas y muy frecuentes en los coches deportivos estadounidenses llamados ‘muscle cars’.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Se distinguen:
 
-More specifically, the created site:
+V8 cross-plane: Frecuentemente usado en los automóviles. La primera y última biela están a 180º de distancia entre las demás como son la segunda o tercera.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+V8 flat-plane: basado en el cigüeñal de los motores 4 cilindros de ángulos 180º. El ángulo de barcos puede ser de 90º y 180º. Se usan frecuentemente en monoplazas de competición.
+
+
 
 Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
 
