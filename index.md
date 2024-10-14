@@ -8,6 +8,7 @@ Los V8 son motores montados en el cárter con dos bancos de 4 cilindros cada uno
 Normalmente el ángulo de la V son 90º (b), pero también son usados algunos V8 con un ángulo de 60º (c).
 
 ![V860](v860.jpg)
+
 V8 a 60º
 
 ![v890](v890.jpg)
