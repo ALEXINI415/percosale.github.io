@@ -7,7 +7,7 @@ layout: default
 Los V8 son motores montados en el cárter con dos bancos de 4 cilindros cada uno, compartiendo así el mismo cigüeñal formando una ‘V’.
 Normalmente el ángulo de la V son 90º (b), pero también son usados algunos V8 con un ángulo de 60º (c).
 
-![V8 60](v8 60.jpg) ![v8 90](v8 90.jpg)
+![V860](v860.jpg) ![v890](v890.jpg)
 
 Son normales en camionetas y muy frecuentes en los coches deportivos estadounidenses llamados ‘muscle cars’.
 
