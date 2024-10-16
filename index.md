@@ -1,6 +1,6 @@
 ---
 title: Coches V8  
-layout: default
+layout: home
 ---
 # Coches V8 
 
@@ -62,7 +62,7 @@ En 1965, Carroll Shelby decidió modificar el Ford Mustang, otorgándole una pot
 En 1967, decidieron fabricar el Ford Mustang Shelby GT500. El Shelby GT500 era una versión más extrema del Shelby GT350 y, por supuesto, del Ford Mustang. 
 Cuenta con un motor 7.0 litros V8 que tiene el Ford GT40, coche perfeccionado por Carroll Shelby y ganador de Le Mans.
     
-
+<image src="https://noticias.coches.com/wp-content/uploads/2015/06/Ford-Shelby-Mustang-GT500-1967-01.jpg" alt="Descripción de la imagen">
 
 
 ### 2. Dodge Charger (1968)
@@ -71,13 +71,15 @@ Salió a la venta con un precio de 3.014 dólares (21.000 dólares actuales) y, 
 El paquete R/T trae un poderoso 7.2 litros V8 con 375 caballos de potencia, frenos mejorados y suspensión mejorada.             
                                 
 
+<image src="https://cdn.classic-trader.com/I/images/1920_1920_inset/vehicle_ad_standard_image_835a30895e3e495fa1e60825bc9d161e.jpg" alt="Descripción de la imagen">
+
 ### 3. Pontiac GTO (1964)
 Para muchos, el Muscle Car original. Este coche fue la causa de conocer hoy en día los Ford Mustang, Chevrolet Camaro, Dodge Charger…
 Nació porque Pontiac quería una versión mejorada y más rápida que el Tempest.
 Con un motor 6.3 litros V8, el Pontiac GTO rompía muchos esquemas, ya que estos motores suelen llevarlos coches de dimensiones mayores.
 La placa de identificación GTO se lanzó en 1964 como paquete opcional en el Tempest Le Mans, que ofrecía 329 caballos de potencia en la versión de un carburador y cuatro barriles o 348 caballos de potencia en la versión de carburadores de dos barriles.
 
-
+<image src="https://cdn.dealeraccelerate.com/ag/1/523/42079/1920x1440/1964-pontiac-gto" alt="Descripción de la imagen">
 
 Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
 
