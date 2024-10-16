@@ -9,10 +9,10 @@ Normalmente el ángulo de la V son 90º (b), pero también son usados algunos V8
 
 ![V860](v860.jpg)
 
-V8 a 60º
+*V8 a 60º*
 
 ![v890](v890.jpg)
-V8 A 90º
+*V8 A 90º*
 
 
 Son normales en camionetas y muy frecuentes en los coches deportivos estadounidenses llamados ‘muscle cars’.
