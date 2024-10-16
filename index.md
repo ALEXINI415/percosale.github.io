@@ -55,7 +55,7 @@ Al principio de los 80, los muscle cars regresaron, pero sin comparación a los 
 6. Mercury Coupe (1939-1951)
 
 ## 2. Coches emblemáticos
-Ford Shelby GT500 (1967)
+### 1. Ford Shelby GT500 (1967)
 
 En 1965, Carroll Shelby decidió modificar el Ford Mustang, otorgándole una potencia de 306 caballos de potencia. 
 
@@ -65,13 +65,13 @@ Cuenta con un motor 7.0 litros V8 que tiene el Ford GT40, coche perfeccionado po
 
 
 
-Dodge Charger (1968)
+### 2. Dodge Charger (1968)
 Dodge rediseñó este coche en 1968 para diferenciarlo del Coronet, modificando la línea del techo y agregando focos traseros redondos.
 Salió a la venta con un precio de 3.014 dólares (21.000 dólares actuales) y, si pagabas 466 dólares (3.300 dólares actuales) extra, tendrías el paquete R/T.
 El paquete R/T trae un poderoso 7.2 litros V8 con 375 caballos de potencia, frenos mejorados y suspensión mejorada.             
                                 
 
-Pontiac GTO (1964)
+### 3. Pontiac GTO (1964)
 Para muchos, el Muscle Car original. Este coche fue la causa de conocer hoy en día los Ford Mustang, Chevrolet Camaro, Dodge Charger…
 Nació porque Pontiac quería una versión mejorada y más rápida que el Tempest.
 Con un motor 6.3 litros V8, el Pontiac GTO rompía muchos esquemas, ya que estos motores suelen llevarlos coches de dimensiones mayores.
