@@ -29,3 +29,11 @@ El gran revuelo en torno al GTR se centró en su motor. Todos los modelos M3 ant
 En marzo de 2015, Mercedes-AMG presentó en el Salón del Automóvil de Ginebra el Mercedes-AMG GT3, la versión de carreras del GT que usaría el V8 naturalmente aspirado M159 de 6208 cm³ (6,2 L; 378,8 plg³), también usado en el SLS AMG GT3. Está construido mayormente de plástico reforzado con fibra de carbono, con la intención de reducir el peso por debajo de los 1300 kg (2866 libras) para cumplir las homologaciones de automóviles de carreras de la FIA. Se esperaba que se pusiera a la venta en 2016.
 
 <image src="https://static.cand.com.vn/Files/Image/hientk/2019/06/24/e2c67286-2a73-444b-88b8-69b85cda703e.jpg" alt="Descripción de la imagen">
+
+
+## 4. Ferrari 458 Italia GT3
+
+Ferrari también dio a conocer una versión GT3 del 458 Italia en 2011. Es un poco más ligero y más potente que la versión GT2, generando una potencia de salida cercana a los 558 CV (550 HP; 410 kW) y tiene una línea roja de 9000 rpm. Por lo tanto, el motor funciona de manera más similar al de un automóvil de carretera que la versión GT2. La aerodinámica también es ligeramente diferente debido a las diferentes regulaciones aerodinámicas.
+
+<image src="https://live.staticflickr.com/65535/52129125291_2ba7cd26c4_h.jpg" alt="Descripción de la imagen">
+
