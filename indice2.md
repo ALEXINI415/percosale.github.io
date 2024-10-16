@@ -2,10 +2,9 @@
 title: Coches V10  
 layout: home
 ---
-# Coches V8 
+# Coches V10 
 
-Los V8 son motores montados en el cárter con dos bancos de 4 cilindros cada uno, compartiendo así el mismo cigüeñal formando una ‘V’.
-Normalmente el ángulo de la V son 90º (b), pero también son usados algunos V8 con un ángulo de 60º (c).
+El motor V10 es un motor de combustión interna con diez cilindros dispuestos en dos filas de cinco cilindros.
 
 ![V860](v860.jpg)
 
@@ -14,8 +13,7 @@ Normalmente el ángulo de la V son 90º (b), pero también son usados algunos V8
 ![v890](v890.jpg)
 *V8 A 90º*
 
-
-Son normales en camionetas y muy frecuentes en los coches deportivos estadounidenses llamados ‘muscle cars’.
+Los motores V10 son usados principalmente en automóviles deportivos y camionetas de gran tamaño, pudiendo ser usados también en camiones pesados. También fueron usados en las carreras de Fórmula 1 desde el año 1989 hasta 2005, cuando el reglamento pasó a permitir solamente el uso de motores V8. Durante el período que fueron usados en la Fórmula 1 demostraron ser la configuración ideal, y en los últimos años en los que se permitió su uso fueron la opción elegida por prácticamente todas las escuderías.
 
 Se distinguen:
 
