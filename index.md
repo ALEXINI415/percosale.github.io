@@ -37,7 +37,7 @@ Los jóvenes querían esos coches porque representan su ‘libertad’ y ‘esti
 
 No fue hasta 1964 donde Pontiac presentó uno de los primeros ‘Muscle Cars’, el Pontiac GTO, y se empezaron a popularizar de una manera masiva. Tanto fue el impacto que varios fabricantes de coches americanos como Ford, Chevrolet, Dodge, Plymouth… No tardaron en responder al GTO y poco a poco se fueron popularizando bastante durante la época de los 60.
 
-En la década de los 70 los Muscle Cars vivieron una época muy gris. En 1973, Dodge junto a Chrysler  sacó lo que se conoce como uno de los últimos Muscle Car puros: El Dodge Charger 440 R/T Six-Pack, con unos muy buenos 390 caballos de potencia.
+En la década de los 70 los Muscle Cars vivieron una época muy gris. En 1973, Dodge junto a Chrysler sacó lo que se conoce como uno de los últimos Muscle Car puros: El Dodge Charger 440 R/T Six-Pack, con unos muy buenos 390 caballos de potencia.
 
 Pero a partir de ahí todo fue en declive. La crisis petrolífera afectó a todo el país y los motores V8 se fueron esfumando durante bastantes años, dando así la extinción de los ‘Muscle Cars’ en 1978.
 
@@ -45,6 +45,37 @@ A partir de ahí, las marcas estadounidenses empezaron a hacer coches compactos 
 Algunos de esos compactos son; Chevrolet Vega GT, Chevrolet Chevelle hatchback, Dodge Omni…
 
 Al principio de los 80, los muscle cars regresaron, pero sin comparación a los antiguos. En cambio, estos eran más económicos, deportivos y cómodos. Los actuales siguen siendo económicos, pero se sigue perdiendo esos motores grandes debido a las contaminaciones de CO2.
+
+## 1.2 Primeros coches V8
+1. Ford Coupé (1932)
+2. Ford Coupé (1955)
+3. Ford Thunderbird (1957)
+4. Chevrolet Corvette (1953-1962)
+5. Chevrolet Bel Air II (1955-1957)
+6. Mercury Coupe (1939-1951)
+
+## 2. Coches emblemáticos
+Ford Shelby GT500 (1967)
+
+En 1965, Carroll Shelby decidió modificar el Ford Mustang, otorgándole una potencia de 306 caballos de potencia. 
+
+En 1967, decidieron fabricar el Ford Mustang Shelby GT500. El Shelby GT500 era una versión más extrema del Shelby GT350 y, por supuesto, del Ford Mustang. 
+Cuenta con un motor 7.0 litros V8 que tiene el Ford GT40, coche perfeccionado por Carroll Shelby y ganador de Le Mans.
+    
+
+
+
+Dodge Charger (1968)
+Dodge rediseñó este coche en 1968 para diferenciarlo del Coronet, modificando la línea del techo y agregando focos traseros redondos.
+Salió a la venta con un precio de 3.014 dólares (21.000 dólares actuales) y, si pagabas 466 dólares (3.300 dólares actuales) extra, tendrías el paquete R/T.
+El paquete R/T trae un poderoso 7.2 litros V8 con 375 caballos de potencia, frenos mejorados y suspensión mejorada.             
+                                
+
+Pontiac GTO (1964)
+Para muchos, el Muscle Car original. Este coche fue la causa de conocer hoy en día los Ford Mustang, Chevrolet Camaro, Dodge Charger…
+Nació porque Pontiac quería una versión mejorada y más rápida que el Tempest.
+Con un motor 6.3 litros V8, el Pontiac GTO rompía muchos esquemas, ya que estos motores suelen llevarlos coches de dimensiones mayores.
+La placa de identificación GTO se lanzó en 1964 como paquete opcional en el Tempest Le Mans, que ofrecía 329 caballos de potencia en la versión de un carburador y cuatro barriles o 348 caballos de potencia en la versión de carburadores de dos barriles.
 
 
 
