@@ -9,7 +9,7 @@ nav_order: 1
 
 Los V8 se recuerdan o se piensan muy frecuentemente en un automóvil, normalmente americanos. Aunque no lo parezca, también hay otro tipos de vehículos que montan este tipo de motores, y hoy hablaremos de ellos.
 
-## Scania R500
+  ## Scania R500
 
 <image src="https://d2e5b8shawuel2.cloudfront.net/vehicle/311785/hlv/600.jpg" alt="Descripción de la imagen">
 
@@ -28,10 +28,14 @@ Se ofreció en configuraciones de 3800/4600/5000/5400 mm entre ejes, tracción 4
 La cabina podía ser dormitorio o simple (opcional), totalmente en acero, con aislación termo acústica de alta eficiencia; basculante a 60°, proporcionando un amplio acceso al motor. Parabrisas laminado y parrilla frontal de fibra de vidrio reforzada, basculante, con amortiguador a gas.
 
 
-## Setra 210HD
+    ## Setra 210HD
 
 
-<image src="https://en.setra-club.com/graphics/gallery/full/40_autowp-ru-setra-s210-hd-3-1.jpg" alt="Descripción de la imagen">
+
+
+
+
+   <image src="https://en.setra-club.com/graphics/gallery/full/40_autowp-ru-setra-s210-hd-3-1.jpg" alt="Descripción de la imagen">
 
   
 El Setra S 210 HD recogió dignamente a principios de los 80 el testigo de los legendarios modelos club S 6 y S 80. La colección de modelos antiguos de Setra alberga uno de estos modelos. Procedente de Turquía, había sido un regalo del dueño para su esposa.
