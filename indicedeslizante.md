@@ -28,7 +28,7 @@ Se ofreció en configuraciones de 3800/4600/5000/5400 mm entre ejes, tracción 4
 La cabina podía ser dormitorio o simple (opcional), totalmente en acero, con aislación termo acústica de alta eficiencia; basculante a 60°, proporcionando un amplio acceso al motor. Parabrisas laminado y parrilla frontal de fibra de vidrio reforzada, basculante, con amortiguador a gas.
 
 
-    ## Setra 210HD
+   ## Setra 210HD
 
 
 
