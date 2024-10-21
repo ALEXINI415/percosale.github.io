@@ -4,8 +4,8 @@ theme: just-the-docs
 logo: "scania-scania-v8-logo.webp"
 url: https://www.formula1.com/
 nav_external_links:
-  - title: Funcionamiento de un V8
-    url: https://www.youtube.com/shorts/e5PUe7E7R4s
+  - title: Sonido de un V8 de Ferrari
+    url: https://www.youtube.com/watch?v=5h67iFm7U7Q&pp=ygUSZmVycmFyaSBmMzU1IHNvdW5k
     hide_icon: false
     opens_in_new_tab: true
 aux_links:
