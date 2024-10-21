@@ -18,11 +18,12 @@ El 2UR-GSE es un motor V8 de aspiración natural de 5,0 L; 303,2 pulgadas cúbic
 
 <image src="https://sportlichleicht.com/media/engines/m113/m113_01.jpg" alt="Descripción de la imagen">
 
-El motor Mercedes-Benz M113 (y su similar M155) es una familia de motores de combustión interna V8 de encendido por chispa y propulsados ​​por gasolina que se utilizaron en la década de 2000. Se basa en el M112 V6 similar introducido en 1997, que luego se eliminó gradualmente en 2007 para reemplazarlo por el motor M156 AMG y el motor M273.
+El motor Mercedes-Benz M113 (y el antecesor del [M159]) es una familia de motores de combustión interna V8 de encendido por chispa y propulsados ​​por gasolina que se utilizaron en la década de 2000. Se basa en el M112 V6 similar introducido en 1997, que luego se eliminó gradualmente en 2007 para reemplazarlo por el motor M156 AMG y el motor M273.
 
 Los Mercedes-Benz M113 estándar se construyeron en Untertürkheim, Alemania, mientras que las versiones AMG se ensamblaron en la planta de AMG en Affalterbach, Alemania. Los M113 tienen bloques de motor de aluminio/silicio (Alusil) y culatas de aluminio SOHC con dos bujías por cilindro. Las culatas tienen 3 válvulas por cilindro (dos de admisión, una de escape). Otras características incluyen inyección de combustible secuencial, faldas de pistón revestidas de hierro, bielas de acero forjado con división por fractura, un árbol de levas de fundición de una pieza y un colector de admisión de magnesio.
 
 
+[M159]:
 
 ## LS6
 
