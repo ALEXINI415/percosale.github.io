@@ -23,7 +23,7 @@ El motor Mercedes-Benz M113 (y el antecesor del [M159]) es una familia de motore
 Los Mercedes-Benz M113 estándar se construyeron en Untertürkheim, Alemania, mientras que las versiones AMG se ensamblaron en la planta de AMG en Affalterbach, Alemania. Los M113 tienen bloques de motor de aluminio/silicio (Alusil) y culatas de aluminio SOHC con dos bujías por cilindro. Las culatas tienen 3 válvulas por cilindro (dos de admisión, una de escape). Otras características incluyen inyección de combustible secuencial, faldas de pistón revestidas de hierro, bielas de acero forjado con división por fractura, un árbol de levas de fundición de una pieza y un colector de admisión de magnesio.
 
 
-[M159]:
+[M159]:https://alexini415.github.io/percosale.github.io/indice2.html#3-mercedes-amg-gt3
 
 ## LS6
 
