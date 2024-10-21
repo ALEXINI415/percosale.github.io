@@ -11,6 +11,10 @@ Los V8 se recuerdan o se piensan muy frecuentemente en un automóvil, normalment
 
 ## Scania R500
 
+<image src="https://d2e5b8shawuel2.cloudfront.net/vehicle/311785/hlv/600.jpg" alt="Descripción de la imagen">
+
+
+
 El Scania R500 es un camión que, con un motor V8, está adaptado sobre todo para tareas severas. La esencia de la imagen Scania se mantiene, pero la compañía sueca remodela totalmente el interior en su nueva serie R. Más comodidad y seguridad a bordo de un potente motor de 500 CV.
 
 El vehículo viene en dos versiones, estadounidense, y argentina. Solo se diferencian en el interior y el exterior de la cabina, ya que ésta, en la zona de la calandra (la parte del frente), es menos curvada en la versión argentina; además, esta versión es de color dorado. En potencia no tienen nada que envidiarle ninguna de las dos. Viene en una versión tractora para las cargas más pesadas y las rutas más largas.
@@ -26,6 +30,10 @@ La cabina podía ser dormitorio o simple (opcional), totalmente en acero, con ai
 
 ## Setra 210HD
 
+
+<image src="https://en.setra-club.com/graphics/gallery/full/40_autowp-ru-setra-s210-hd-3-1.jpg" alt="Descripción de la imagen">
+
+  
 El Setra S 210 HD recogió dignamente a principios de los 80 el testigo de los legendarios modelos club S 6 y S 80. La colección de modelos antiguos de Setra alberga uno de estos modelos. Procedente de Turquía, había sido un regalo del dueño para su esposa.
 
 ¿Una historia agitada con numerosos cambios de propietario? ¿Millones de kilómetros recorridos? ¿Costosas reparaciones y restauraciones? ¡Nada de eso! Dentro de la colección de modelos antiguos Setra, el Setra S 210 HD presenta un historial poco común: un solo propietario anterior; uso exclusivamente privado; kilometraje total de 60.000 km; en estado original. El autocar club de piso alto, fabricado en 1988, está acercándose a los 30 años, edad oficial para ser considerado modelo antiguo. Aun así, este S 210 HD es ya toda una rareza, con una historia digna de contarse.
