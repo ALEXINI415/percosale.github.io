@@ -3,6 +3,10 @@ description: El mejor magazine que puedes encontrar en el mundo del automovilism
 theme: just-the-docs
 logo: "scania-scania-v8-logo.webp"
 url: https://www.formula1.com/
-
+nav_external_links:
+  - title: Funcionamiento de un V8
+    url: https://www.youtube.com/shorts/e5PUe7E7R4s
+    hide_icon: false
+    opens_in_new_tab: true
 aux_links:
   Template Repository: https://en.wikipedia.org/wiki/Car
