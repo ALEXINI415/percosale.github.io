@@ -28,7 +28,7 @@ El LS6 es una versión de mayor potencia del motor LS1 de GM y conserva la misma
 
 El SSC Ultimate Aero TT también utilizó el bloque LS6, aunque con una cilindrada aumentada de 6,3 L (384,4 pulgadas cúbicas) y la adición de dos turbocompresores.
 
-¿Quieres ayudarnos a crecer? Pulse [aquí] o también en [este enlace]
+### *¿Quieres ayudarnos a crecer? Pulse [aquí] o también en [este enlace]*
 
 [aquí]:https://www.infojobs.net/
 [este enlace]:https://www.paypal.com/paypalme/
