@@ -1,6 +1,7 @@
 ---
 title: Coches V8  
 layout: home
+has_children: true
 ---
 # Coches V8 
 
